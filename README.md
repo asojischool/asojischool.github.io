@@ -1,2 +1,4 @@
 # digital-clock
-Create a digital clock using javascript
+
+A Digital Clock
+Hosting using github pages
